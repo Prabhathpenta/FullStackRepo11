@@ -6,4 +6,7 @@ public class m1 {
 		System.out.println("hello");
 	}
 
+	public void hello1() {
+		System.out.println("hello1");
+	}
 }
